@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# bank_exercise
+
 
 A new Flutter project.
 
